@@ -155,7 +155,7 @@
         android:background="#C6512F"
         android:text="Costoumise DASHBORD"
         android:textColor="@android:color/white"
-        android:textSize="18SP"
+        android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
